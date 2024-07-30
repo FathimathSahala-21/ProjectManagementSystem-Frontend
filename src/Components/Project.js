@@ -142,11 +142,11 @@ const Project = () => {
 
                   <option value="">Select type</option>
 
-                  <option value="waste">Network</option>
+                  <option value="Network">Network</option>
 
-                  <option value="water">Service</option>
+                  <option value="Service">Service</option>
 
-                  <option value="electricity">Outsourcing</option>
+                  <option value="Outsourcing">Outsourcing</option>
 
                   <option value="other">Other</option>
 
